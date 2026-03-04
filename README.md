@@ -1,22 +1,11 @@
-# Hi 👋, I'm Prachod Kakatur
+# hi, i'm prachod
 
-🎓 Computer Science @ University of Illinois Urbana-Champaign  
-📊 Minor in Statistics  
-💡 Interested in **AI, Machine Learning, Full-Stack Systems, and Technical Consulting**
+computer science @ university of illinois urbana-champaign  
+interested in **ai, machine learning, full-stack**
 
-🔗 Portfolio: https://prachodkakatur.vercel.app/ 
-🔗 LinkedIn: https://linkedin.com/in/prachod-kakatur  
-🔗 GitHub: https://github.com/PrachodK
-
----
-
-## 🚀 About Me
-
-- 💻 Software Engineer building **AI-powered platforms and scalable web systems**
-- 🧠 Experience with **Machine Learning, Full-Stack Development, and Cloud Infrastructure**
-- 📊 Currently exploring **data-driven products and intelligent systems**
-- 🏢 Consultant at **FACES Consulting @ UIUC**
-- 🛰 Previously worked on **ML security systems, SaaS platforms, and robotics autonomy**
+Portfolio: https://prachodkakatur.vercel.app/ 
+LinkedIn: https://linkedin.com/in/prachod-kakatur  
+GitHub: https://github.com/PrachodK
 
 ---
 
