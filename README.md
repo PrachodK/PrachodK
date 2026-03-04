@@ -3,9 +3,19 @@
 computer science @ university of illinois urbana-champaign  
 interested in **ai, machine learning, full-stack**
 
-Portfolio: https://prachodkakatur.vercel.app/ 
-LinkedIn: https://linkedin.com/in/prachod-kakatur  
-GitHub: https://github.com/PrachodK
+<p align="left">
+<a href="https://prachodkakatur.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/prachod-kakatur">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PrachodK">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
